@@ -28,7 +28,7 @@ Current Instruction address per thread
 ## 6. Native Stack
 
 For native(JNI) method calls
-------------------------------------------------------------
+
 
 ### Detail Explanation below-
 
