@@ -42,4 +42,3 @@ Usage -
 ```
 System.out.println(MathUtil.square(x));
 ```
-
