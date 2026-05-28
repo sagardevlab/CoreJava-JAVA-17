@@ -1,4 +1,4 @@
-package StringInternals;
+package stringInternals;
 
 public class jsonString {
     public static void main(String[] args){

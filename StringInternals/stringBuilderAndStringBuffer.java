@@ -1,4 +1,4 @@
-package StringInternals;
+package stringInternals;
 
 public class stringBuilderAndStringBuffer {
     /*String Builder is a mutable sequence of characters. Internally it uses a char array
